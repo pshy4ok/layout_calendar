@@ -6,7 +6,6 @@ $cell-gap: 1px;
 $calendar-padding: 10px;
 $columns: 7;
 $calendar-width: $columns * $cell-size + ($columns - 1) * $cell-gap + 2 * $calendar-padding;
-
 $days: (
   sun: 1,
   mon: 2,
